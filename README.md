@@ -9,7 +9,10 @@ The *strike depth* is how far ITM, and OTM the study will scan starting with ATM
 The *series* determines what option expiries to look for.
 
 For example: With a strike depth of 5, and the series set to weekly, the study will scan all options for that day that are expiring on the next upcoming friday, starting ATM and going ITM 5 strikes, and OTM 5 strikes.
-
+![NVDA Options Chain](NVDA.png)
+![SPY](SPY.png)
+![QQQ](QQQ.png)
+![IWM](IWM.png)
 **⚠️ Warning: Setting the strike depth to large values requires significant processing power, and will result in slow loading times.**
 
 Note: This is a custom study I wrote in thinkscript. It does not use any part of the options scanner that is built into the ThinkOrSwim platform or the condition wizard.
