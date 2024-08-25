@@ -3,6 +3,7 @@
 # sudoshu - I would not have been able to make this work without the help, and kindness to share code from those listed below. Thank you!
 #
 # Credits:
+#     VietRoadie
 #     mobius
 #     ziongotoptions
 #     Angrybear
@@ -13,7 +14,7 @@
 #     DeusMecanicus
 #     Zardoz0609
 #     NPTrading
-#
+
 
 declare once_per_bar;
 declare hide_on_intraday;
