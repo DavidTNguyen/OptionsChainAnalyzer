@@ -1,6 +1,6 @@
 #hint: Options Chain Analyser \n This study lets you scan and perform calculations on the options chain for a series and given depth. \n<b>Warning: Setting the StrikeDepth to large values requires significant processing power, and will result in slow loading times.</b>
 #
-# sudoshu - I would not have been able to make this work without the help, and kindness to share code from those listed below. Thank you!
+# I would not have been able to make this work without the help, and kindness to share code from those listed below. Thank you!
 #
 # Credits:
 #     VietRoadie
