@@ -3,10 +3,10 @@
 A thinkscript study that will scan the options chain and display information about volume, open interest, and gamma exposure.
 For use with the ThinkOrSwim platform.
 Please note that this indicator only works on a **daily timeframe**. It will be **hidden automatically on intraday charts**.
-
-The conditions are configurable for a certain 'strike depth' and 'series'.
-The 'strike depth' is how far ITM, and OTM the study will scan starting with ATM options.
-The 'series' determines what option expiries to look for.
+Direct link - [http://tos.mx/!vXbU32rz](http://tos.mx/!vXbU32rz)
+The conditions are configurable for a certain *strike depth* and *series*.
+The *strike depth* is how far ITM, and OTM the study will scan starting with ATM options.
+The *series* determines what option expiries to look for.
 
 For example: With a strike depth of 5, and the series set to weekly, the study will scan all options for that day that are expiring on the next upcoming friday, starting ATM and going ITM 5 strikes, and OTM 5 strikes.
 

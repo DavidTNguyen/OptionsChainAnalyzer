@@ -488,7 +488,7 @@ def TotalPutGammaExposure = TotalSpotGEX(StrikeDepth, OpexCode, CenterStrike, St
 # Visuals
 
 # Version Label
-AddLabel(yes, "OptionsHacker v" + version, Color.LIGHT_GRAY);
+AddLabel(yes, "Options Chain Analyzer v" + version, Color.LIGHT_GRAY);
 
 # Selected DataType
 AddLabel(yes, DataType, Color.LIGHT_GRAY);
